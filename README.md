@@ -1,2 +1,2 @@
-# Myjava1
+# Myjava2
 Java training
